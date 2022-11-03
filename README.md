@@ -1,30 +1,16 @@
 ### Hello, my name is Alec ✌️ I am a full-stack web developer and former ESL teacher. I believe in working your hardest to get to the top, and then reaching back and helping the next person get there. I hope to promote positivity and non-toxicity across the internet. My primary goal is to support a positive and diverse growth mindset where people can learn and feel great to come to work. Ask me about learning JavaScript, living in Germany, home recording, English grammar, or the best bottle of red in Temecula.
 
-<!--
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-😄 Pronouns: he/him/his/himself
 <br>
-🌱 I’m currently learning: mongoDB, C++, TypeScript
+## I’m currently learning: mongoDB, C++, TypeScript 🌱
 
-Let's connect! 
+## Let's connect! 
 <br>
 [My LinkedIn](https://www.linkedin.com/in/alec-venida-66793979/)
 [My AngelList](https://angel.co/u/alec-venida)
 
 
-⚡ Technologies I use:
+### Technologies I use:
 <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

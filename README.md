@@ -2,9 +2,10 @@
 
 ## I’m currently learning: mongoDB, C++, TypeScript 🌱
 
+
+
 ## Let's connect! 
-[My LinkedIn](https://www.linkedin.com/in/alec-venida-66793979/)
-[My AngelList](https://angel.co/u/alec-venida)
+<a href="https://www.linkedin.com/in/alec-venida-66793979/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=f61c0d" alt="LinkedIn Badge"/></a> <a href="https://avenida714.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&color=f61c0d&logoColor=#f61c0d" alt="Portfolio Badge"/></a>
 
 
 ### Technologies I use:
@@ -23,3 +24,5 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+![](https://komarev.com/ghpvc/?username=avenida714&color=f61c0d&style=flat-square)

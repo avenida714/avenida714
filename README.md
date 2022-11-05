@@ -5,7 +5,7 @@
 
 
 ## Let's connect! 
-<a href="https://www.linkedin.com/in/alec-venida-66793979/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=f61c0d" alt="LinkedIn Badge"/></a> <a href="https://avenida714.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&color=f61c0d&logoColor=#f61c0d" alt="Portfolio Badge"/></a>
+<a href="https://www.linkedin.com/in/alec-venida-66793979/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=1877f2" alt="LinkedIn Badge"/></a> <a href="https://avenida714.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&color=f61c0d&logoColor=#f61c0d" alt="Portfolio Badge"/></a>
 
 
 ### Technologies I use:

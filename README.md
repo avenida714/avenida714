@@ -1,6 +1,6 @@
 ### Hello, my name is Alec ✌️ I am a full-stack web developer and former ESL teacher. I believe in working your hardest to get to the top, and then reaching back and helping the next person get there. I hope to promote positivity and non-toxicity across the internet. My primary goal is to support a positive and diverse growth mindset where people can learn and feel great to come to work. Ask me about learning JavaScript, living in Germany, home recording, English grammar, or the best bottle of red in Temecula.
 
-## I’m currently learning: mongoDB, C++, TypeScript 🌱
+## I’m currently learning: Bootstrap🌱
 
 
 

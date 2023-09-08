@@ -1,6 +1,9 @@
-### Hello, my name is Alec ✌️🎸 I am a full-stack web developer and former ESL teacher. I believe in working your hardest to get to the top, and then reaching back and helping the next person get there. I hope to promote positivity and non-toxicity across the internet. My primary goal is to support a positive and diverse growth mindset where people can learn and feel great to come to work. Ask me about building full-stack web applications from scratch, living in Germany, home recording, English grammar, or the best bottle of red in Temecula.
+### What's up?! I'm Alec ✌️🎸, a dedicated Full-Stack Web Developer with a background in ESL education. I'm a fervent believer in the philosophy of not just ascending to new professional heights, but also in elevating others along the way. My mission is to foster an online community characterized by positivity, inclusivity, and a non-toxic environment.
 
-## I’m currently learning: Django and React Native 🌱
+I'm passionate about cultivating a workplace culture that champions a growth mindset, diversity, and a sense of enthusiasm in day-to-day tasks. Feel free to engage with me on topics ranging from constructing full-stack web applications from the ground up, to my experiences living in Germany, the nuances of English grammar, home recording techniques, or even the finest red wines that Temecula has to offer.
+
+
+## I’m currently Exploring: Django and React Native 🌱
 
 
 

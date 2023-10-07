@@ -5,10 +5,12 @@
 
 ## I’m currently Exploring: Django and React Native 🌱
 
+## Thank you for checking out my <a href="https://avenida714.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&color=f61c0d&logoColor=#f61c0d" alt="Portfolio Badge"/></a>
+
 
 
 ## Let's connect! 
-<a href="https://www.linkedin.com/in/alec-venida-66793979/"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://avenida714.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&color=f61c0d&logoColor=#f61c0d" alt="Portfolio Badge"/></a>
+<a href="https://www.linkedin.com/in/alec-venida-66793979/"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
 
 
 ### Technologies I use:

@@ -4,7 +4,7 @@ a dedicated Full-Stack Web Developer with a background in ESL education, and cur
 **I'm passionate about cultivating a workplace culture that champions a growth mindset, diversity, and a sense of enthusiasm in day-to-day tasks.**
 Ask me anything about building full-stack web applications from scratch, living in Germany, the nuances of English grammar, home recording techniques, or even the best bottle of red in Temecula.
 
-**I’m currently Exploring: Django and React Native 🌱**
+**I’m currently Exploring: Swift, Xcode 🌱**
 
 **Thank you for checking out my** 
 <a href="https://avenida714.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&color=f61c0d&logoColor=#f61c0d" alt="Portfolio Badge"/></a>
